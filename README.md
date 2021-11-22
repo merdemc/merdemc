@@ -3,7 +3,7 @@
 - 👀 I’m also interested in deploying app on K8s cluster on cloud
 - 👀 I’ve strong experince on voice core (GSM, UMTS, VoLTE, VoWiFi, 5G SA Core etc), protocols ( SS7, TCP/IP, INAP, CAMEL, SIP, Diameter, LDAP, HTTPv2) and cloudifications (VMware NFV, VNF, CNF) 
 - 🌱 I’m currently learning go/golang and improving deployments skils on K8s clusters
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project and write some code for that
 - 📫 You can reach me writing email to merdemc@gmail.com
 
 <!---
